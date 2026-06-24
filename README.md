@@ -17,6 +17,7 @@ landsat bands for 2002 and 2024 used for land use land cover (LULC) classificati
 
 # "SDM_layers" folder:
 environmental variables for 2002 and 2024 used to generate habitat suitability of the Prsian leopard:
+
 #- agri.tif: Focal function of cropland type in land use map in a 2.5×2.5 km grid
 #- capra.tif: Habitat suitability map of wild goat
 #- elevation.tif: elevation above sea level derived from Digital Elevation Model
