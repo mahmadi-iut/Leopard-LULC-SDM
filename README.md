@@ -10,7 +10,7 @@ Tavakoli, M., Ahmadi, M., Malekian, M., Mohammadi, A., Ecological informatics fo
 ## Below, the content of the Zip file is described:
 
 # "env_vars" folder:
-raster lyers of digital evlevation (dem.tif) and distance to roads (road_dis.tif)
+raster lyers of digital evlevation (dem.tif) and distance to roads (road_dis.tif) used as covariates for LULC classification.
 
 # "landsat_bands" folder:
 landsat bands for 2002 and 2024 used for land use land cover (LULC) classification
